@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "exquisite_packing:item/bundle_stick"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:basket_golden_carrot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:carton_prismarine_crystals"
+    }
+  ],
+  "result": {
+    "item": "minecraft:prismarine_crystals",
+    "count": 9
+  }
+}

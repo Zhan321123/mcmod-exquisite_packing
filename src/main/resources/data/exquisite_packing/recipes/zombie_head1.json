@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:pile_zombie_head"
+    }
+  ],
+  "result": {
+    "item": "minecraft:zombie_head",
+    "count": 9
+  }
+}

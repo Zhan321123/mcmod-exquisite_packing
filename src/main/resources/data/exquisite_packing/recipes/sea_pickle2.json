@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sea_pickle"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:sea_pickle_block"
+  }
+}

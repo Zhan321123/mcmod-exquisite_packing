@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:bundle_spectral_arrow"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spectral_arrow",
+    "count": 9
+  }
+}

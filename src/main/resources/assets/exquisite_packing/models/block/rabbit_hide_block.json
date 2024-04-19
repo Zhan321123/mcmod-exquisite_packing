@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "exquisite_packing:block/rabbit_hide_end",
+    "side": "exquisite_packing:block/rabbit_hide_side"
+  }
+}

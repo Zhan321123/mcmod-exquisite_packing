@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:pot_cooked_porkchop"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cooked_porkchop",
+    "count": 9
+  }
+}

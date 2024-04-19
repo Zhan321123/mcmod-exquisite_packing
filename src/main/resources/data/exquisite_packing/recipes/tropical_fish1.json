@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:barrel_tropical_fish"
+    }
+  ],
+  "result": {
+    "item": "minecraft:tropical_fish",
+    "count": 9
+  }
+}

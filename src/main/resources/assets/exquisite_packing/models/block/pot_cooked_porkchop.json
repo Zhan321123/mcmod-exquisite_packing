@@ -1,0 +1,6 @@
+{
+    "parent": "exquisite_packing:block/pot",
+    "textures": {
+        "items": "exquisite_packing:block/pot_cooked_porkchop"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:birch_sapling"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:basket_birch_sapling"
+  }
+}

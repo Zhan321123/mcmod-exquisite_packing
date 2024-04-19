@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:sack_blaze_powder"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 9
+  }
+}

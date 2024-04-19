@@ -1,0 +1,6 @@
+{
+  "parent": "exquisite_packing:block/sack",
+  "textures": {
+    "items": "exquisite_packing:block/sack_fermented_spider_eye"
+  }
+}

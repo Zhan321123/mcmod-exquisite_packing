@@ -1,0 +1,6 @@
+{
+  "parent": "exquisite_packing:block/pile",
+  "textures": {
+    "items": "exquisite_packing:block/pile_creeper_head"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "exquisite_packing:block/bundle",
+  "textures": {
+    "end": "exquisite_packing:block/bones_end",
+    "side": "exquisite_packing:block/bones_side"
+  }
+}

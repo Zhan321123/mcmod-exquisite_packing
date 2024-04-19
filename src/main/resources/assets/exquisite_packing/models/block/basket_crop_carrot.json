@@ -1,0 +1,6 @@
+{
+  "parent": "exquisite_packing:block/basket_crop",
+  "textures": {
+    "items": "exquisite_packing:block/basket_crop_carrot"
+  }
+}

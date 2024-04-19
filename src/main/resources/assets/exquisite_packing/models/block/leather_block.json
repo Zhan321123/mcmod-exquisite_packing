@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "exquisite_packing:block/leather_end",
+    "side": "exquisite_packing:block/leather_side"
+  }
+}

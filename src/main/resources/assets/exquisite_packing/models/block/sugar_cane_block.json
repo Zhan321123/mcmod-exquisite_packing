@@ -1,0 +1,7 @@
+{
+  "parent": "exquisite_packing:block/bundle",
+  "textures": {
+    "end": "exquisite_packing:block/sugar_cane_end",
+    "side": "exquisite_packing:block/sugar_cane_side"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "exquisite_packing:block/barreled",
+    "textures": {
+        "items": "exquisite_packing:block/barrel_cod"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:totem_block"
+  }
+}

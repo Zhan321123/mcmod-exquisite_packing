@@ -1,0 +1,6 @@
+{
+    "parent": "exquisite_packing:block/carton",
+    "textures": {
+        "items": "exquisite_packing:block/carton_quartz"
+    }
+}

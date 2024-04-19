@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:carton_turtle_egg"
+    }
+  ],
+  "result": {
+    "item": "minecraft:turtle_egg",
+    "count": 9
+  }
+}

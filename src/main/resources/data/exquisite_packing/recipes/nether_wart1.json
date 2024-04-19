@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:sack_nether_wart"
+    }
+  ],
+  "result": {
+    "item": "minecraft:nether_wart",
+    "count": 4
+  }
+}

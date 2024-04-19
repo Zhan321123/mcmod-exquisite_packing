@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:cauldron_raw_mutton"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mutton",
+    "count": 9
+  }
+}

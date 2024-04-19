@@ -1,0 +1,6 @@
+{
+    "parent": "exquisite_packing:block/cauldron",
+    "textures": {
+        "items": "exquisite_packing:block/cauldron_raw_beef"
+    }
+}

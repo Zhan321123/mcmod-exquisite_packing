@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:name_tag"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:bundle_name_tag"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:carton_book"
+    }
+  ],
+  "result": {
+    "item": "minecraft:book",
+    "count": 9
+  }
+}

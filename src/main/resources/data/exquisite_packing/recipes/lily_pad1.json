@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exquisite_packing:basket_lily_pad"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lily_pad",
+    "count": 9
+  }
+}

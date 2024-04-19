@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nautilus_shell"
+    }
+  },
+  "result": {
+    "item": "exquisite_packing:basket_nautilus_shell"
+  }
+}
